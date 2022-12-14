@@ -1,0 +1,15 @@
+.item{
+    display: flex;
+    padding: 5px 10px 5px 10px;
+    align-items: center;
+    justify-content: start;
+    border-radius: 10px;
+
+}
+
+.itemIcon{
+    margin-right:0.5rem;
+    margin-top: 5px;
+    display: flex;
+    gap: 1rem;
+}
